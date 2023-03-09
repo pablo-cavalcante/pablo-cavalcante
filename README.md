@@ -29,6 +29,6 @@
 
 <div dir="auto">
 <a href="https://www.hackerrank.com/certificates/1371e54de44f" rel="nofollow">
-    <img src="/pabloscv/pabloscv/raw/main/img/JavascriptBasic.png" alt="1" style="width: 260px; max-width: 100%;">
+    <img src="/pabloscv/pabloscv/raw/img/JavascriptBasic.png" alt="1" style="width: 260px; max-width: 100%;">
 </a>
 </div>
