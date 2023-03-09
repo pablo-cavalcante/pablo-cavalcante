@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="/pabloscv/pabloscv/blob/main/img/a1.jpg"><img src="/pabloscv/pabloscv/blob/main/img/a1.jpg" alt="a" height="90%" width="90%" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="/img/a1.jpg"><img src="/img/a1.jpg" alt="a" height="90%" width="90%" style="max-width: 100%;"></a>
 </div>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code> If you're here please give me stars ⭐ And don't forget to follow
