@@ -33,11 +33,11 @@
 
 <p class="auto">
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pabloscv&repo=github-readme-stats" />
+<a href="https://github.com/pablo-cavalcante/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pablo-cavalcante&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloscv&repo=convoychat" />
+<a href="https://github.com/pablo-cavalcante/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-cavalcante&repo=convoychat" />
 </a>
 
 </p>
