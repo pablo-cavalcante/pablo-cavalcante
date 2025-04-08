@@ -1,14 +1,14 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
----
-<div align="center">
+  <div align="center">
+    <a href="https://github.com/pablo-cavalcante">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablo-cavalcante&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-cavalcante&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </a>
+  </div>
 
 <div align="center">
-  <a href="https://github.com/pablo-cavalcante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablo-cavalcante&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-cavalcante&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
 <h4 align="center" tabindex="-1" dir="auto"><a id="user-content-----i-am-a-python-programmer-with-5-years-of-experience-in-software-engineering-i-specialize-in-developing-user-friendly-applications-and-web-services-using-python-i-also-have-a-good-understanding-of-object-oriented-programming-and-functional-programming-i-am-experienced-in-using-frameworks-such-as-django-and-flask-as-well-as-libraries-such-as-numpy-pandas-and-scipy-additionally-i-have-developed-machine-learning-projects-using-tensorflow-and-keras-i-have-a-bachelors-degree-in-computer-science-and-i-am-looking-to-expand-my-knowledge-and-experience-in-the-field-of-python-programming-if-youre-here-please-give-me-stars--and-dont-forget-to-follow" class="anchor" aria-hidden="true" href="#----i-am-a-python-programmer-with-5-years-of-experience-in-software-engineering-i-specialize-in-developing-user-friendly-applications-and-web-services-using-python-i-also-have-a-good-understanding-of-object-oriented-programming-and-functional-programming-i-am-experienced-in-using-frameworks-such-as-django-and-flask-as-well-as-libraries-such-as-numpy-pandas-and-scipy-additionally-i-have-developed-machine-learning-projects-using-tensorflow-and-keras-i-have-a-bachelors-degree-in-computer-science-and-i-am-looking-to-expand-my-knowledge-and-experience-in-the-field-of-python-programming-if-youre-here-please-give-me-stars--and-dont-forget-to-follow"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
     I am a Python programmer with 5 years of experience in software engineering. I specialize in developing user-friendly applications and web services using Python. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django and Flask, as well as libraries such as NumPy, Pandas, and SciPy. Additionally, I have developed machine learning projects using TensorFlow and Keras. I have a Bachelor's degree in Computer Science and I am looking to expand my knowledge and experience in the field of Python programming.
@@ -28,19 +28,6 @@
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="/img/a1.jpg"><img src="/img/a1.jpg" alt="a" height="90%" width="90%" style="max-width: 100%;"></a>
 </div>
-
-<p class="auto"></p>
-
-<p class="auto">
-  
-<a href="https://github.com/pablo-cavalcante/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pablo-cavalcante&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/pablo-cavalcante/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-cavalcante&repo=convoychat" />
-</a>
-
-</p>
 
 <h3 dir="auto"><a id="user-content-my-profile-at-hackerrank-httpswwwhackerrankcomroma11_11" class="anchor" aria-hidden="true" href="#my-profile-at-hackerrank-httpswwwhackerrankcompabloscv"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My profile at HackerRank: <a href="https://www.hackerrank.com/pabloscv" rel="nofollow">https://www.hackerrank.com/pabloscv</a></h3>
 
